@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎁 Secret Santa Assignment 🎅
 
 ## **Overview**
@@ -19,3 +20,6 @@ Secret-Santa/ │── main.py # Entry point of the program │── secret_sa
 1. **Clone the repository (if using GitHub):**
    ```bash
    git clone https://github.com/sowjanyas123/Santa_project.git
+=======
+# Santa_project
+>>>>>>> 88cd45b1c1b0ca645d5308686f7fdae3a2b02e0b
